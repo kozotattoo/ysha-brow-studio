@@ -1,0 +1,9 @@
+.sites-runtime/
+.sites-checkout/
+node_modules/
+.openai/
+prepare-assets.py
+finalize-content.py
+*.tar
+*.tar.gz
+qa-*.png
